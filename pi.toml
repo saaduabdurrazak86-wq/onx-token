@@ -1,8 +1,0 @@
-VERSION="2.0.0"
-
-[[CURRENCIES]]
-CODE="ONX"
-ISSUER="GBUNENB6AYNTVUWGFG2Y63HX5PIYVENTHOQ3TAGW2NDYCV2BPA3NZQ65"
-IMAGE="https://saaduabdurrazak86-wq.github.io/onx-token/logo.png"
-NAME="ONX Token"
-DESC="Official token for Onexa"
