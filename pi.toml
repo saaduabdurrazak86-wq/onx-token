@@ -1,6 +1,8 @@
+VERSION="2.0.0"
+
 [[CURRENCIES]]
-code="ONX"
-issuer="GBUNENB6AYNTVUWGFG2Y63HX5PIYVENTHOQ3TAGW2NDYCV2BPA3NZQ65"
-name="Saadu Abdurrazak Jibrin"
-desc="ONX Token on Pi Testnet"
-image="https://saaduabdurrazak86-wq.github.io/onx-token/logo.png"
+CODE="ONX"
+ISSUER="GBUNENB6AYNTVUWGFG2Y63HX5PIYVENTHOQ3TAGW2NDYCV2BPA3NZQ65"
+IMAGE="https://saaduabdurrazak86-wq.github.io/onx-token/logo.png"
+NAME="ONX Token"
+DESC="Official token for Onexa"
